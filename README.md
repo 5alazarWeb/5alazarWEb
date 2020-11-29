@@ -1,16 +1,20 @@
-### Hi there 👋
+## 5alazarWeb - Discovering changes through code
 
-<!--
-**5alazarWeb/5alazarWEb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Hello, my name is Jose Alberto and I am a web developer from Caracas, Venezuela.</p>
+<p>Right now, my main focus is to learn as much as I can in order to find a Junior Developer position.</p>
 
-Here are some ideas to get you started:
+<p>If you would like to chat, please send me a message on here, or find me on Twitter at <a href="https://twitter.com/5alazarWeb">@5alazarweb</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+<p>I enjoy learning and creating things that can contribute to a better world.</p>
+<p>I am taking HTML, CSS and JavaScript courses that help me develop every day.</p>
+<p>The result of what I learned will be published here and I hope it can be used as contributions for others.</p>
+
+## Current Stack
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge">
+
+## Future Stack Goals
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge"> <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?logo=Tailwind-CSS&logoColor=black&style=for-the-badge"> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge">
