@@ -5,7 +5,7 @@
 <p>If you would like to chat, please send me a message on here, or find me on Twitter at <a href="https://twitter.com/5alazarWeb">@5alazarweb</a></p>
 </br>
 
-## Current Projects | ## Current Stack
+## Current Projects | Current Stack
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 
