@@ -1,8 +1,7 @@
 ## 5alazarWeb - Discovering changes through code
 
-<p>Hello, my name is Jose Alberto and I am a web developer from Caracas, Venezuela.</p>
+<p>Hello, my name is Jose Alberto and I am a **web developer** from Caracas, Venezuela.</p>
 <p>Right now, my main focus is to learn as much as I can in order to find a Junior Developer position.</p>
-
 <p>If you would like to chat, please send me a message on here, or find me on Twitter at <a href="https://twitter.com/5alazarWeb">@5alazarweb</a></p>
 </br>
 
