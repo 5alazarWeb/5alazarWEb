@@ -5,6 +5,7 @@
 
 <p>If you would like to chat, please send me a message on here, or find me on Twitter at <a href="https://twitter.com/5alazarWeb">@5alazarweb</a></p>
 </br>
+
 ## Current Projects
 
 <p>I enjoy learning and creating things that can contribute to a better world.</p>
