@@ -7,7 +7,9 @@
 
 ## Current Projects | Current Stack
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+<p>I enjoy learning and creating things that can contribute to a better world.</p>
+<p>I am taking HTML, CSS and JavaScript courses that help me develop every day.</p>
+<p>The result of what I learned will be published here and I hope it can be used as contributions for others.</p> | Content from cell 2
 
 ## Current Projects
 
