@@ -8,7 +8,7 @@ If you would like to chat, please send me a message on here, or find me on Twitt
 
 <br>
 
-### Current Projects
+### Current Projects ---
 
 I enjoy learning and creating things that can contribute to a better world.
 
