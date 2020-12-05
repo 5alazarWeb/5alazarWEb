@@ -10,7 +10,7 @@ If you would like to chat, please send me a message on here, or find me on Twitt
 
 ### Current Projects
 
-I enjoy learning and creating things that can contribute to a better world.
+I enjoy learning and creating things that can contribute to a better world. Hasta que por fin!
 
 I am taking HTML, CSS and JavaScript courses that help me develop every day.
 
