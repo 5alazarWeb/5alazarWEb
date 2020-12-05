@@ -4,7 +4,7 @@ Hello, my name is Jose Alberto and I am a web developer from Caracas, Venezuela.
 
 Right now, my main focus is to learn as much as I can in order to find a Junior Developer position.
 
-If you would like to chat, please send me a message on here, or find me on Twitter at <a href="https://twitter.com/5alazarWeb">@5alazarweb</a>
+If you would like to chat, please send me a message on here, or find me on Twitter at <a href="https://twitter.com/5alazarWeb" target="_blank">@5alazarweb</a>
 
 <br>
 
@@ -16,7 +16,7 @@ I am taking HTML, CSS and JavaScript courses that help me develop every day.
 
 The result of what I learned will be published here and I hope it can be used as contributions for others.
 
-| <a href="https://bit.ly/2JMFZOa">Portfolio #01</a> | <a href="https://bit.ly/2JBwaCQ">Portfolio #02</a> |
+| <a href="https://bit.ly/2JMFZOa" target="_blank">Portfolio #01</a> | <a href="https://bit.ly/2JBwaCQ" target="_blank">Portfolio #02</a> |
 
 <br><br>
 
