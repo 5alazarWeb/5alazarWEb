@@ -16,6 +16,8 @@ I am taking HTML, CSS and JavaScript courses that help me develop every day.
 
 The result of what I learned will be published here and I hope it can be used as contributions for others.
 
+| <a href="https://bit.ly/2JMFZOa">Portfolio #01</a> | <a href="https://bit.ly/2JBwaCQ">Portfolio #02</a> |
+
 <br><br>
 
 | Current Stack                                                                                                                                                                                           | Future Stack Goals                                                                                                                                                                                                                                                                                                                     |
